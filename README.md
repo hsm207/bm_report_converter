@@ -1,5 +1,5 @@
 # Introduction
-This repo contains scriptst to download the pdf reports from Bursa Malaysia's [website](https://www.bursamalaysia.com/) and convert them to csv.
+This repo contains scripts to download the pdf reports from Bursa Malaysia's [website](https://www.bursamalaysia.com/) and convert them to csv.
 
 # Usage
 
