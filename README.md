@@ -19,6 +19,6 @@ This repo contains scriptst to download the pdf reports from Bursa Malaysia's [w
     ```bash
     REPORT_URL='https://www.bursamalaysia.com/misc/missftp/securities/securities_equities_call_warrants_2021-02-28-19-00-03.pdf'
     OUTFILE='2021-02_bm_monthly_sw.csv'
-    bash scripts/02_convert.sh $REPORT_URL $OUTFILE
+    bash scripts/02_convert_monthly_sw_report.sh $REPORT_URL $OUTFILE
     ```
 5. Results can be found in the [data](./data) folder.
